@@ -43,4 +43,4 @@ See build script in package.json. Use the following to build the merged file:
 ```
 npm run build
 ```
-Build file is located at build/output.html.
+Build file is located at `build/output.html`.
