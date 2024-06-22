@@ -2,6 +2,8 @@
 Google Blogger template build script. Merge HTML file using custom &lt;file> tag.
 
 # Example
+Path is relative to the file that includes it.
+
 index.html
 ```html
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -31,7 +33,7 @@ content/header.html
 <file src="./horizontal-line.html"/>
 ```
 
-.content/horizontal-line.html
+content/horizontal-line.html
 ```html
 <hr/>
 ```
