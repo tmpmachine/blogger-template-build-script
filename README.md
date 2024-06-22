@@ -27,7 +27,7 @@ some text goes here
 </html>
 ```
 
-content/header.html
+content/post.html
 ```html
 <h2>Post Title</h2>
 <file src="./horizontal-line.html"/>
