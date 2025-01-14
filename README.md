@@ -44,7 +44,7 @@ Invalid, only the first one is ignored:
 For faster development, the following task script will run `node build` and open the output file in the new tab. You can use the default VS Code keyboard shortcut to run the build script (**Ctrl + Shift + B**).
 
 `/.vscode/tasks.json`
-```
+```json
 {
     "version": "2.0.0",
     "tasks": [
